@@ -7,4 +7,4 @@ clone from github.com
 
 update in github
 
-conflict1
+merge conflict1 and conflict2 to conflict
