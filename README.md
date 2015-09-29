@@ -8,3 +8,5 @@ clone from github.com
 update in github
 
 merge conflict1 and conflict2 to conflict
+
+editing for magit testing
